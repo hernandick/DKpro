@@ -1765,3 +1765,26 @@ section {
   padding-left: 55px;
   padding-bottom: 10px;
 }
+
+.diego{
+  padding-top: 30px;
+  padding-left: 55px;
+  padding-bottom: 0px;
+}
+
+.socio{
+  padding-top: 5px;
+  padding-left: 55px;
+  padding-bottom: 0px;
+  font-size: 20px;
+}
+
+.sobre{
+  padding-top: 125px;
+}
+
+.nos{
+  justify-content: center;
+  text-align: justify;
+  text-justify: newspaper; 
+}
