@@ -1813,6 +1813,13 @@ section {
     width: 30%;
   }
 
+  .center-block-lg-lmc {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+  }
+
 }
 
 .bg-carousel {
