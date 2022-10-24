@@ -167,6 +167,7 @@
   /**
    * Clients Slider
    */
+  
   new Swiper('.clients-slider', {
     speed: 400,
     loop: true,
@@ -199,6 +200,7 @@
       }
     }
   });
+
 
   /**
    * Porfolio isotope and filter
